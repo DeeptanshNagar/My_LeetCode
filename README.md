@@ -5,6 +5,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0031-next-permutation) |
+| [0073-set-matrix-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0137-single-number-ii) |
@@ -32,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
 |  |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
