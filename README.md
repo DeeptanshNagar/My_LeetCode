@@ -41,8 +41,13 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0231-power-of-two) |
+| [1806-count-of-matches-in-tournament](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
