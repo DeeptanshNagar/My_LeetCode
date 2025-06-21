@@ -10,6 +10,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0137-single-number-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [1293-three-consecutive-odds](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1944-truncate-sentence) |
 ## Bit Manipulation
