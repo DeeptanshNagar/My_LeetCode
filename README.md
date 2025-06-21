@@ -61,5 +61,6 @@
 ## String
 |  |
 | ------- |
+| [1205-defanging-an-ip-address](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1944-truncate-sentence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1944-truncate-sentence) |
 <!---LeetCode Topics End-->
