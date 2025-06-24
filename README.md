@@ -57,6 +57,7 @@
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1806-count-of-matches-in-tournament](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1965-sum-of-digits-in-base-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2288-count-operations-to-obtain-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2288-count-operations-to-obtain-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Matrix
 |  |
 | ------- |
