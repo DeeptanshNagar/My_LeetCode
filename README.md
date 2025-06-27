@@ -89,5 +89,10 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0441-arranging-coins) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
