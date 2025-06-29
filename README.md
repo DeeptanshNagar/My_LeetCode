@@ -9,6 +9,7 @@
 | [0054-spiral-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0137-single-number-ii) |
@@ -21,6 +22,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0191-number-of-1-bits) |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
