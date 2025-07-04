@@ -65,6 +65,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0231-power-of-two) |
@@ -78,6 +79,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -133,4 +135,8 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
