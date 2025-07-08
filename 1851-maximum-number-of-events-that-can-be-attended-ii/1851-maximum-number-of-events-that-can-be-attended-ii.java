@@ -1,27 +1,33 @@
 class Solution {
-    public int maxValue(int[][] e, int k) {
-        Arrays.sort(e, (a, b) -> a[0] - b[0]);
-        int n = e.length;
-        int[][] dp = new int[n + 1][k + 1];
-        int[] start = new int[n];
-        for (int i = 0; i < n; i++)
-            start[i] = e[i][0];
-        for (int i = n - 1; i >= 0; i--) {
-            int next = upperBound(start, e[i][1]);
-            for (int j = 1; j <= k; j++)
-                dp[i][j] = Math.max(dp[i + 1][j], e[i][2] + dp[next][j - 1]);
+    public int maxValue(int[][] events, int k) {
+        Arrays.sort(events, (a, b) -> a[1] - b[1]); 
+        int n = events.length;
+
+        int dp[][] = new int[n + 1][k + 1];
+
+        for (int i = 1; i <= n; i++) {
+            int event[] = events[i - 1];
+            int prev = binarySearch(events, event[0]);
+
+            for (int j = 1; j <= k; j++) {
+                dp[i][j] = Math.max(dp[i - 1][j], dp[prev + 1][j - 1] + event[2]);
+            }
         }
-        return dp[0][k];
+        return dp[n][k];
     }
-    int upperBound(int[] a, int x) {
-        int l = 0, h = a.length;
-        while (l < h) {
-            int m = (l + h) / 2;
-            if (a[m] <= x)
-                l = m + 1;
-            else
-                h = m;
+
+    private int binarySearch(int[][] events, int currentStart) {
+        int left = 0, right = events.length - 1;
+        int result = -1;
+
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            if (events[mid][1] < currentStart) {
+                result = mid;
+                left = mid + 1;
+            } 
+            else right = mid - 1;
         }
-        return l;
+        return result;
     }
 }
