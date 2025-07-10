@@ -29,6 +29,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1944-truncate-sentence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Bit Manipulation
 |  |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [3908-minimum-time-for-k-connected-components](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
+## Enumeration
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
