@@ -17,6 +17,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0137-single-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -148,6 +149,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Interactive
