@@ -42,6 +42,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Union Find
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
