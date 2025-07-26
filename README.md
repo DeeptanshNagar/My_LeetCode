@@ -43,6 +43,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Linked List
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Memoization
 |  |
 | ------- |
@@ -266,4 +269,8 @@
 |  |
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
