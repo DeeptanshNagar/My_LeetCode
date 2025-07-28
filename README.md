@@ -34,6 +34,7 @@
 | [1944-truncate-sentence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1944-truncate-sentence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -55,6 +56,7 @@
 | [0191-number-of-1-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -184,6 +186,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0090-subsets-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -242,6 +245,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Memoization
