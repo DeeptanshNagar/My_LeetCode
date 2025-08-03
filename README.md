@@ -232,6 +232,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
