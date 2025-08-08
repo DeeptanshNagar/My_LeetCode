@@ -135,6 +135,7 @@
 | [0069-sqrtx](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0441-arranging-coins) |
+| [0826-soup-servings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -234,6 +235,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0826-soup-servings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -331,4 +333,8 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
