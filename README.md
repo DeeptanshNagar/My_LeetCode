@@ -29,6 +29,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -100,6 +101,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -118,6 +120,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -348,4 +351,8 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0826-soup-servings) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
