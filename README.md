@@ -138,6 +138,7 @@
 | [0048-rotate-image](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0441-arranging-coins) |
 | [0826-soup-servings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -157,6 +158,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
