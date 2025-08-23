@@ -211,6 +211,7 @@
 | [1954-replace-all-digits-with-characters](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2401-count-asterisks](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2401-count-asterisks) |
 | [3396-valid-word](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
