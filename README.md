@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0056-merge-intervals) |
@@ -132,6 +133,7 @@
 | [0013-roman-to-integer](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -261,6 +264,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0090-subsets-ii) |
 | [0679-24-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0679-24-game) |
