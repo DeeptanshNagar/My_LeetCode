@@ -180,6 +180,7 @@
 | [0326-power-of-three](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0507-perfect-number) |
 | [0679-24-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0867-new-21-game) |
