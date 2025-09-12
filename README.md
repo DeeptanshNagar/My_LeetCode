@@ -64,6 +64,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2689-rearranging-fruits) |
 | [3227-find-missing-and-repeated-values](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -168,6 +169,7 @@
 | [2479-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2689-rearranging-fruits) |
 | [3227-find-missing-and-repeated-values](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Union Find
 |  |
@@ -319,6 +321,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
