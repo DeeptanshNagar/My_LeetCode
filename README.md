@@ -18,6 +18,7 @@
 | [0090-subsets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0137-single-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -351,6 +352,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0120-triangle) |
 | [0826-soup-servings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
