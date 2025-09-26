@@ -27,6 +27,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0611-valid-triangle-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -126,6 +127,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -137,6 +139,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -306,6 +309,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -401,6 +405,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
