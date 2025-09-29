@@ -34,6 +34,7 @@
 | [0940-fruit-into-baskets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -363,6 +364,7 @@
 | [0826-soup-servings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
