@@ -62,6 +62,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -227,6 +228,7 @@
 | [1965-sum-of-digits-in-base-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -255,6 +257,7 @@
 | [0498-diagonal-traverse](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0498-diagonal-traverse) |
 | [1806-count-of-matches-in-tournament](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -523,4 +526,8 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
