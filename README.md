@@ -224,6 +224,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1642-water-bottles](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1965-sum-of-digits-in-base-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -255,6 +256,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
