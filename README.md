@@ -452,6 +452,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -525,6 +526,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0682-baseball-game) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -570,6 +572,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3827-implement-router](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3827-implement-router) |
 ## Game Theory
