@@ -63,6 +63,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2169-simple-bank-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -205,6 +206,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2169-simple-bank-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -287,6 +289,7 @@
 | [0682-baseball-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2169-simple-bank-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -460,6 +463,7 @@
 | [0225-implement-stack-using-queues](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3827-implement-router) |
