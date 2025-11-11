@@ -25,6 +25,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -355,6 +356,7 @@
 | [0125-valid-palindrome](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0242-valid-anagram) |
+| [0474-ones-and-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1205-defanging-an-ip-address](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -449,6 +451,7 @@
 | [0118-pascals-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0120-triangle) |
+| [0474-ones-and-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
