@@ -34,6 +34,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
