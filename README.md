@@ -128,6 +128,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0137-single-number-ii) |
@@ -267,6 +268,7 @@
 | [0002-add-two-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0231-power-of-two) |
@@ -328,6 +330,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1642-water-bottles) |
@@ -373,6 +376,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0242-valid-anagram) |
