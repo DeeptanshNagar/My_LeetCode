@@ -210,6 +210,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -285,6 +286,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Math
@@ -630,6 +632,7 @@
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Enumeration
@@ -659,6 +662,7 @@
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -756,6 +760,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
 |  |
