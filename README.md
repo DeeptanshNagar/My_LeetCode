@@ -449,6 +449,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2401-count-asterisks](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2401-count-asterisks) |
 | [2429-design-a-food-rating-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3396-valid-word) |
@@ -568,6 +569,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2625-increment-submatrices-by-one) |
