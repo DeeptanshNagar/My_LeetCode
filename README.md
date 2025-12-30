@@ -38,6 +38,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -256,6 +257,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -318,6 +320,7 @@
 | [0507-perfect-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0507-perfect-number) |
 | [0679-24-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0826-soup-servings) |
+| [0840-magic-squares-in-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -411,6 +414,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1791-richest-customer-wealth) |
