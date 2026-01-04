@@ -1,20 +1,23 @@
 class Solution {
-    public void merge(int[] arr1, int m, int[] arr2, int n) {
-        int idx = m + n - 1;
-        int i = m-1;
-        int j = n-1;
-        while(i >= 0 && j >= 0) {
-            if(arr1[i] < arr2[j]) {
-                arr1[idx] = arr2[j];
-                idx--; j--;
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int index = m + n -1;
+        int i = m - 1;
+        int j = n - 1;
+        while(i >=0 && j >= 0) {
+            if(nums1[i] > nums2[j]) {
+                nums1[index] = nums1[i];
+                index--;
+                i--;
             } else {
-                arr1[idx] = arr1[i];
-                idx--; i--;
+                nums1[index] = nums2[j];
+                index--;
+                j--;
             }
         }
-        while (j >= 0) {
-            arr1[idx] = arr2[j];
-            idx--; j--;
+        while(j >= 0) {
+            nums1[index] = nums2[j];
+            index--;
+            j--;
         }
     }
 }
