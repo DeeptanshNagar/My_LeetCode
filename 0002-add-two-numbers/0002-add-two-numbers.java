@@ -27,7 +27,6 @@ class Solution {
       carry /= 10;
       curr = curr.next;
     }
-
     return dummy.next;
   }
 }
