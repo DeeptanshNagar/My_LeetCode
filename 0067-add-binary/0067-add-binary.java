@@ -13,4 +13,3 @@ class Solution {
         return sb.reverse().toString();
     }
 }
-
