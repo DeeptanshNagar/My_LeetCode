@@ -8,6 +8,7 @@
 <strong>Output:</strong> true
 </pre>
 
+
 <p><strong class="example">Example 2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/10/06/balance_2.jpg" style="width: 452px; height: 301px;" />
 <pre>
