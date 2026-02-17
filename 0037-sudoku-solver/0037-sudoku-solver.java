@@ -46,7 +46,6 @@ class Solution {
         } 
         else placeNextNumbers(row, col);
     }
-
     public void solveSudoku(char[][] board) {
         this.board = board;
         for (int i = 0; i < N; i++)
