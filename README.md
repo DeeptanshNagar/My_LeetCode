@@ -459,6 +459,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1944-truncate-sentence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1944-truncate-sentence) |
