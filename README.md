@@ -76,6 +76,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1944-truncate-sentence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1944-truncate-sentence) |
+| [1980-find-unique-binary-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -272,6 +273,7 @@
 | [1813-maximum-erasure-value](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -465,6 +467,7 @@
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1944-truncate-sentence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1954-replace-all-digits-with-characters) |
+| [1980-find-unique-binary-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2211-count-collisions-on-a-road) |
@@ -522,6 +525,7 @@
 | [0090-subsets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0090-subsets-ii) |
 | [0679-24-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [1980-find-unique-binary-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Sliding Window
