@@ -165,6 +165,7 @@
 | [0342-power-of-four](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1009-complement-of-base-10-integer](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
