@@ -508,6 +508,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -664,6 +665,7 @@
 | [2689-rearranging-fruits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2689-rearranging-fruits) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -830,4 +832,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 <!---LeetCode Topics End-->
