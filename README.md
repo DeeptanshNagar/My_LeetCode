@@ -459,6 +459,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -530,6 +531,7 @@
 | [0090-subsets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0090-subsets-ii) |
 | [0679-24-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
