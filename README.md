@@ -76,6 +76,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1917-maximum-average-pass-ratio](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1944-truncate-sentence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1944-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -443,6 +444,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1791-richest-customer-wealth](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2625-increment-submatrices-by-one) |
