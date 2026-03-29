@@ -516,6 +516,7 @@
 | [2429-design-a-food-rating-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2573-find-the-string-with-lcp](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2887-sort-vowels-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3396-valid-word) |
