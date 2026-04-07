@@ -428,6 +428,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1642-water-bottles](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2069-walking-robot-simulation-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2169-simple-bank-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2211-count-collisions-on-a-road) |
@@ -711,6 +712,7 @@
 | [1622-fancy-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2169-simple-bank-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3678-design-task-manager) |
