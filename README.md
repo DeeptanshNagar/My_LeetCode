@@ -156,6 +156,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -204,6 +205,7 @@
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0191-number-of-1-bits) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +447,7 @@
 | [3433-count-mentions-per-user](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
