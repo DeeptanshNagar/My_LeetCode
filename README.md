@@ -103,6 +103,7 @@
 | [2402-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2463-minimum-total-distance-traveled](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2479-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -253,6 +254,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2479-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2689-rearranging-fruits) |
@@ -652,6 +654,7 @@
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2463-minimum-total-distance-traveled](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
