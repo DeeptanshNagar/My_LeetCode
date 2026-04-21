@@ -70,6 +70,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -822,6 +823,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -942,6 +944,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
