@@ -106,6 +106,7 @@
 | [2402-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2479-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -550,6 +551,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2401-count-asterisks](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2401-count-asterisks) |
 | [2429-design-a-food-rating-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -834,6 +836,7 @@
 | ------- | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
