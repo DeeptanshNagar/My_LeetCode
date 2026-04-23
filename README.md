@@ -115,6 +115,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2529-range-product-queries-of-powers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2573-find-the-string-with-lcp](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2615-sum-of-distances](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2689-rearranging-fruits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2689-rearranging-fruits) |
@@ -324,6 +325,7 @@
 | [2402-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2615-sum-of-distances](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2689-rearranging-fruits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2689-rearranging-fruits) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -698,6 +700,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2615-sum-of-distances](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
