@@ -63,6 +63,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -488,6 +489,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -834,6 +836,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2092-find-all-people-with-secret) |
@@ -937,6 +940,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -957,6 +961,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
