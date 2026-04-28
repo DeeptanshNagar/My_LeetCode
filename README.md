@@ -89,6 +89,7 @@
 | [1980-find-unique-binary-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -261,6 +262,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -396,6 +398,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1965-sum-of-digits-in-base-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -498,6 +501,7 @@
 | [1791-richest-customer-wealth](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
