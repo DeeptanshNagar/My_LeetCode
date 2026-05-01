@@ -22,6 +22,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0137-single-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -376,6 +377,7 @@
 | [0231-power-of-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0507-perfect-number) |
 | [0679-24-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0679-24-game) |
@@ -670,6 +672,7 @@
 | [0118-pascals-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0120-triangle) |
+| [0396-rotate-function](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0867-new-21-game) |
