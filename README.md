@@ -541,6 +541,7 @@
 | [0474-ones-and-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0756-pyramid-transition-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0796-rotate-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -997,5 +998,6 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 <!---LeetCode Topics End-->
