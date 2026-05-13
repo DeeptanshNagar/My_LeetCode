@@ -74,6 +74,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -332,6 +333,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1813-maximum-erasure-value](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -741,6 +743,7 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
