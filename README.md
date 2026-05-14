@@ -131,6 +131,7 @@
 | [2751-robot-collisions](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -287,6 +288,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2689-rearranging-fruits) |
 | [2751-robot-collisions](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2751-robot-collisions/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2887-sort-vowels-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -349,6 +351,7 @@
 | [2479-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2615-sum-of-distances](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2689-rearranging-fruits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
