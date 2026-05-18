@@ -56,6 +56,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -333,6 +334,7 @@
 | [1006-vowel-spellchecker](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -996,6 +998,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1306-jump-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
