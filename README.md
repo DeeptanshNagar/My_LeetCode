@@ -125,6 +125,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2529-range-product-queries-of-powers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2540-minimum-common-value](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2615-sum-of-distances](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2615-sum-of-distances/) | Medium |
@@ -256,6 +257,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Sorting
@@ -353,6 +355,7 @@
 | [2402-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [2540-minimum-common-value](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2689-rearranging-fruits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -638,6 +641,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2540-minimum-common-value](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
