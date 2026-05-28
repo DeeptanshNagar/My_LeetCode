@@ -145,6 +145,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3093-longest-common-suffix-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -621,6 +622,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2887-sort-vowels-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3396-valid-word) |
@@ -925,6 +927,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
