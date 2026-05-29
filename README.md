@@ -155,6 +155,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -455,6 +456,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-water-bottles-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3433-count-mentions-per-user) |
