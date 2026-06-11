@@ -481,6 +481,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -955,6 +956,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Trie
@@ -986,6 +988,7 @@
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Segment Tree
 | Problem Name | Difficulty |
