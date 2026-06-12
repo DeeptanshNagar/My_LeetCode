@@ -178,6 +178,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -244,6 +245,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -482,6 +484,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -784,6 +787,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -957,6 +961,7 @@
 | [2092-find-all-people-with-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Trie
@@ -989,6 +994,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Segment Tree
 | Problem Name | Difficulty |
