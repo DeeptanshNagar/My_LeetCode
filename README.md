@@ -275,6 +275,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -852,6 +853,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
