@@ -370,6 +370,7 @@
 | [0957-prison-cells-after-n-days](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [1006-vowel-spellchecker](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -626,6 +627,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1189-maximum-number-of-balloons](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1205-defanging-an-ip-address](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -754,6 +756,7 @@
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1189-maximum-number-of-balloons](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
