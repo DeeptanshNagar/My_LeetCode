@@ -209,6 +209,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -264,6 +265,7 @@
 | [0191-number-of-1-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0191-number-of-1-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +421,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3678-design-task-manager](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3678-design-task-manager) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -862,6 +865,7 @@
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -1039,6 +1043,7 @@
 | [3161-block-placement-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -1163,4 +1168,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->
