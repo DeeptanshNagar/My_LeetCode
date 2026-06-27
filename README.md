@@ -203,6 +203,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -264,6 +265,7 @@
 | [0190-reverse-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0191-number-of-1-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
@@ -863,6 +865,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
