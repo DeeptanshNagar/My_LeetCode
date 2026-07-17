@@ -168,6 +168,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -425,6 +426,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3488-closest-equal-element-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -513,6 +515,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-water-bottles-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -737,6 +740,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3161-block-placement-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -795,6 +799,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3583-count-special-triplets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -881,6 +886,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1134,6 +1140,7 @@
 | ------- | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1142,6 +1149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
