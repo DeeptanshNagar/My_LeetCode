@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sorted-gcd-pair-queries">3312. Sorted GCD Pair Queries</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code> and an integer array <code>queries</code>.</p>
+<h2><a href="https://leetcode.com/problems/sorted-gcd-pair-queries">3583. Sorted GCD Pair Queries</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code> and an integer array <code>queries</code>.</p>
 
 <p>Let <code>gcdPairs</code> denote an array obtained by calculating the <span data-keyword="gcd-function">GCD</span> of all possible pairs <code>(nums[i], nums[j])</code>, where <code>0 &lt;= i &lt; j &lt; n</code>, and then sorting these values in <strong>ascending</strong> order.</p>
 
