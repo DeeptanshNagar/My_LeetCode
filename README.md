@@ -713,6 +713,7 @@
 | [3396-valid-word](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3499-maximize-active-section-with-trade-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -1024,6 +1025,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
