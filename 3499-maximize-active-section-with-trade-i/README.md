@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximize-active-section-with-trade-i">3805. Maximize Active Section with Trade I</a></h2><h3>Medium</h3><hr><p>You are given a binary string <code>s</code> of length <code>n</code>, where:</p>
+<h2><a href="https://leetcode.com/problems/maximize-active-section-with-trade-i">3499. Maximize Active Section with Trade I</a></h2><h3>Medium</h3><hr><p>You are given a binary string <code>s</code> of length <code>n</code>, where:</p>
 
 <ul>
 	<li><code>&#39;1&#39;</code> represents an <strong>active</strong> section.</li>
