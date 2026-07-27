@@ -12,6 +12,7 @@
 | [0037-sudoku-solver](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -278,6 +279,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0191-number-of-1-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -832,6 +834,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0120-triangle) |
