@@ -12,7 +12,6 @@ class Solution {
                 if(ch == ')' && top != '(') return false;
                 if(ch == ']' && top != '[') return false;
                 if(ch == '}' && top != '{') return false;
-
             }
         }
         return st.empty();
