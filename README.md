@@ -372,6 +372,7 @@
 | [3433-count-mentions-per-user](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -733,6 +734,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -1155,6 +1157,7 @@
 | ------- | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
