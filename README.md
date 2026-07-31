@@ -365,6 +365,7 @@
 | [2785-sort-vowels-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2887-sort-vowels-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -439,6 +440,7 @@
 | [2689-rearranging-fruits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -730,6 +732,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2887-sort-vowels-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -833,6 +836,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1003,6 +1007,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2689-rearranging-fruits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
