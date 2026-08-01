@@ -33,6 +33,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -492,6 +493,7 @@
 | [0342-power-of-four](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0679-24-game) |
@@ -583,6 +585,7 @@
 | [0234-palindrome-linked-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -854,6 +857,7 @@
 | [0120-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0120-triangle) |
 | [0396-rotate-function](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0826-soup-servings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0867-new-21-game) |
@@ -1188,6 +1192,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
