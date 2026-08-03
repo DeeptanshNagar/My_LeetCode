@@ -73,6 +73,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -511,6 +512,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -873,6 +875,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1340-jump-game-v](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1201,6 +1204,7 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 | Problem Name | Difficulty |
