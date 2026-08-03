@@ -48,6 +48,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0860-lemonade-change](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0907-koko-eating-bananas](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -997,6 +998,7 @@
 | [0455-assign-cookies](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0611-valid-triangle-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0860-lemonade-change](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
