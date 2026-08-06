@@ -557,6 +557,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-water-bottles-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -1082,6 +1083,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
