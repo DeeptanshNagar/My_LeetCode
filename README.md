@@ -1,8 +1,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0031-next-permutation) |
@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0053-maximum-subarray/) | Medium |
@@ -250,8 +251,8 @@
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0090-subsets-ii) |
@@ -285,8 +286,8 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0191-number-of-1-bits) |
@@ -295,8 +296,8 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -329,8 +330,8 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0088-merge-sorted-array) |
@@ -396,8 +397,8 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3908-minimum-time-for-k-connected-components](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -482,16 +483,16 @@
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2092-find-all-people-with-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0048-rotate-image) |
@@ -591,8 +592,8 @@
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0206-reverse-linked-list) |
@@ -605,8 +606,8 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0498-diagonal-traverse) |
@@ -645,8 +646,8 @@
 | [3838-weighted-word-mapping](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0048-rotate-image) |
@@ -693,8 +694,8 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3748-sort-matrix-by-diagonals](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -773,8 +774,8 @@
 | [3838-weighted-word-mapping](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0069-sqrtx) |
@@ -813,14 +814,15 @@
 | [3827-implement-router](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3827-implement-router) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0090-subsets-ii) |
 | [0679-24-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0679-24-game) |
@@ -831,8 +833,8 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0867-new-21-game) |
@@ -849,8 +851,8 @@
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -866,8 +868,8 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0055-jump-game/) | Medium |
@@ -932,8 +934,8 @@
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -971,8 +973,8 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0021-merge-two-sorted-lists) |
@@ -992,8 +994,8 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1622-fancy-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1622-fancy-sequence/) | Hard |
@@ -1005,8 +1007,8 @@
 | [3678-design-task-manager](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3827-implement-router) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0055-jump-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0611-valid-triangle-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0611-valid-triangle-number) |
@@ -1054,8 +1056,8 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -1073,14 +1075,14 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2092-find-all-people-with-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0900-reordered-power-of-2](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1291-sequential-digits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1291-sequential-digits) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1101,14 +1103,14 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1306-jump-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -1127,20 +1129,20 @@
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -1157,16 +1159,16 @@
 | [2751-robot-collisions](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1622-fancy-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [3161-block-placement-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -1176,15 +1178,15 @@
 | [3790-fruits-into-baskets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2023-design-movie-rental-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3678-design-task-manager) |
@@ -1193,41 +1195,41 @@
 | [3827-implement-router](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Probability and Statistics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0826-soup-servings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0867-new-21-game) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3625-count-number-of-trapezoids-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3827-implement-router) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0486-predict-the-winner](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -1238,8 +1240,8 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -1247,8 +1249,8 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -1264,24 +1266,24 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -1290,38 +1292,38 @@
 | [2685-count-the-number-of-complete-components](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0796-rotate-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3161-block-placement-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0584-find-customer-referee](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0620-not-boring-movies/) | Easy |
