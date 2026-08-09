@@ -64,6 +64,7 @@
 | [1006-vowel-spellchecker](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1260-shift-2d-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -519,6 +520,7 @@
 | [0957-prison-cells-after-n-days](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -888,6 +890,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1340-jump-game-v](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -939,6 +942,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -1227,6 +1231,7 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
@@ -1333,4 +1338,12 @@
 | [1683-invalid-tweets](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
