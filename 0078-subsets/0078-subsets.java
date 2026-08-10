@@ -1,23 +1,25 @@
 class Solution {
-    
-    public void getAllSubsets(int[] nums, List<Integer> ans, int i, List<List<Integer>> allSubsets) {
-        if (i == nums.length) {
-            allSubsets.add(new ArrayList<>(ans)); 
-            return;
-        }
-        
-        ans.add(nums[i]);
-        getAllSubsets(nums, ans, i + 1, allSubsets);
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> resultant = new ArrayList<>();
+        List<Integer> ans = new ArrayList<>();
+        int i = 0;
+        resultantFunction(nums, i, ans, resultant);
 
-        ans.remove(ans.size() - 1);
-
-        getAllSubsets(nums, ans, i + 1, allSubsets);
+        return resultant;
     }
 
-    public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> allSubsets = new ArrayList<>();
-        List<Integer> ans = new ArrayList<>();
-        getAllSubsets(nums, ans, 0, allSubsets);
-        return allSubsets;
+    public List<List<Integer>> resultantFunction(int[] nums, int i, List<Integer> ans, List<List<Integer>> resultant) {
+        if(i == nums.length) {
+            resultant.add(new ArrayList<>(ans));
+            return resultant;
+        }
+
+        ans.add(nums[i]);
+        resultantFunction(nums, i + 1, ans, resultant);
+
+        ans.remove(ans.size() - 1);
+        resultantFunction(nums, i + 1, ans, resultant);
+
+        return resultant;
     }
 }
