@@ -529,6 +529,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1448-maximum-69-number) |
+| [1510-stone-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -895,6 +896,7 @@
 | [1340-jump-game-v](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1233,6 +1235,7 @@
 | [0877-stone-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -1342,8 +1345,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
