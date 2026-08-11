@@ -13,6 +13,7 @@
 | [0039-combination-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0054-spiral-matrix) |
@@ -828,6 +829,7 @@
 | [0037-sudoku-solver](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0090-subsets-ii) |
 | [0679-24-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0679-24-game) |
