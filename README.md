@@ -78,6 +78,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1386-cinema-seat-allocation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1406-stone-game-iii/) | Hard |
@@ -274,6 +275,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0957-prison-cells-after-n-days](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -439,6 +441,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1386-cinema-seat-allocation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -1046,6 +1049,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1386-cinema-seat-allocation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1448-maximum-69-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
