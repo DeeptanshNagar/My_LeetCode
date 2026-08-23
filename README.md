@@ -556,6 +556,7 @@
 | [1840-maximum-building-height](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1965-sum-of-digits-in-base-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2029-stone-game-ix/) | Medium |
@@ -753,6 +754,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-jump-game-vii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1927-sum-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1944-truncate-sentence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1954-replace-all-digits-with-characters) |
@@ -1064,6 +1066,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1834-minimum-number-of-people-to-teach](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -1266,6 +1269,7 @@
 | [1140-stone-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1927-sum-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
