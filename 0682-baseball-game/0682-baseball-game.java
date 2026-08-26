@@ -23,6 +23,5 @@ class Solution {
             sum+=p;
         }
         return sum;
-
     }
 }
