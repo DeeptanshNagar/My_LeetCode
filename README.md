@@ -343,6 +343,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -804,6 +805,7 @@
 | [3617-find-the-original-typed-string-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -1151,6 +1153,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
