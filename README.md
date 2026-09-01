@@ -220,6 +220,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -296,6 +297,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -490,6 +492,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -722,6 +725,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1330,6 +1334,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
