@@ -548,6 +548,7 @@
 | [0679-24-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0679-24-game) |
 | [0788-rotated-digits](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0826-soup-servings](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0826-soup-servings) |
+| [0836-rectangle-overlap](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -1295,6 +1296,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
