@@ -86,6 +86,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -458,6 +459,7 @@
 | [1345-jump-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1386-cinema-seat-allocation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -850,6 +852,7 @@
 | [0794-swim-in-rising-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -903,6 +906,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1871-jump-game-vii/) | Medium |
@@ -962,6 +966,7 @@
 | [1340-jump-game-v](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
