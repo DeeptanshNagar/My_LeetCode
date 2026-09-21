@@ -217,6 +217,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -619,6 +620,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -1004,6 +1006,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
