@@ -772,6 +772,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0067-add-binary](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0125-valid-palindrome) |
@@ -970,6 +971,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0055-jump-game/) | Medium |
@@ -1272,6 +1274,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0155-min-stack/) | Medium |
@@ -1506,6 +1509,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
