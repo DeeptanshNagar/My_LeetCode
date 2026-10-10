@@ -149,6 +149,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -400,6 +401,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -888,6 +890,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2540-minimum-common-value](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -1168,6 +1171,7 @@
 | [2126-destroying-asteroids](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2573-find-the-string-with-lcp](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -1203,6 +1207,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2479-meeting-rooms-iii) |
