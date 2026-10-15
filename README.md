@@ -180,6 +180,7 @@
 | [2784-check-if-array-is-good](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -502,6 +503,7 @@
 | [2784-check-if-array-is-good](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1338,6 +1340,7 @@
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -1493,6 +1496,7 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
