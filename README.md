@@ -93,6 +93,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -328,6 +329,7 @@
 | [0053-maximum-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0191-number-of-1-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -594,6 +596,7 @@
 | [1448-maximum-69-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1448-maximum-69-number) |
 | [1510-stone-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -1020,6 +1023,7 @@
 | [1406-stone-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1266,6 +1270,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1332,6 +1337,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1425,6 +1431,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -1473,6 +1480,7 @@
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -1504,6 +1512,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Merge Sort
@@ -1558,4 +1567,12 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
