@@ -619,6 +619,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2235-add-two-integers](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
