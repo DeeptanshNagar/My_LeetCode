@@ -888,6 +888,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 | Problem Name | Difficulty |
