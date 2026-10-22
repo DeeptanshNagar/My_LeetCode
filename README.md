@@ -287,6 +287,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
