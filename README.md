@@ -251,6 +251,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -323,6 +324,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3676-smallest-number-with-all-set-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
