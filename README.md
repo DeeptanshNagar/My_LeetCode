@@ -286,6 +286,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -329,6 +330,7 @@
 | [3676-smallest-number-with-all-set-bits](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -793,6 +795,7 @@
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3748-sort-matrix-by-diagonals](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1087,6 +1090,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
