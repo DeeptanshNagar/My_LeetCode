@@ -38,6 +38,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0498-diagonal-traverse) |
@@ -389,6 +390,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -580,6 +582,7 @@
 | [0342-power-of-four](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
