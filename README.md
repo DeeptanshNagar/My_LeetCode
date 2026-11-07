@@ -122,6 +122,7 @@
 | [1872-stone-game-viii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1917-maximum-average-pass-ratio](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -1256,6 +1257,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1917-maximum-average-pass-ratio](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
