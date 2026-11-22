@@ -875,6 +875,7 @@
 | [1980-find-unique-binary-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
