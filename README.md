@@ -81,6 +81,7 @@
 | [1345-jump-game-iv](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1386-cinema-seat-allocation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -613,6 +614,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1127,6 +1129,7 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -1194,6 +1197,7 @@
 | ------- | ------- |
 | [0155-min-stack](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [1352-product-of-the-last-k-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1622-fancy-sequence](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2023-design-movie-rental-system) |
@@ -1639,4 +1643,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
