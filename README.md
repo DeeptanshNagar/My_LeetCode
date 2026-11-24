@@ -218,6 +218,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3433-count-mentions-per-user) |
@@ -666,6 +667,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -1015,6 +1017,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1314,6 +1317,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -1489,6 +1493,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
