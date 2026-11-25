@@ -302,6 +302,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -575,6 +576,7 @@
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -973,6 +975,7 @@
 | [3791-fruits-into-baskets-iii](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3827-implement-router) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/3908-minimum-time-for-k-connected-components) |
+| [3934-smallest-unique-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1373,6 +1376,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DeeptanshNagar/My_LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3934-smallest-unique-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1652,4 +1656,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/DeeptanshNagar/My_LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
